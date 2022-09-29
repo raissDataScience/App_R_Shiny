@@ -1,0 +1,11 @@
+library(Factoshiny)
+library(Factoshiny)
+jeuDeDonnees=read.table("Data_AnaStats.csv",sep=",",header=TRUE,row.names=1)#Importation de données.
+library(shiny); runApp('myShiny.R')
+library(shiny); runApp('myShiny.R')
+library(shiny); runApp('myShiny.R')
+library(shiny); runApp('myShiny.R')
+library(shiny); runApp('myShiny.R')
+library(shiny); runApp('myShiny.R')
+load("C:/Users/ANICET/Desktop/R_Stage/Projet_Stage/.RData")
+load("C:/Users/ANICET/Desktop/R_Stage/Projet_Stage/.RData")
